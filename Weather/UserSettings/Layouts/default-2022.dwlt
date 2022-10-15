@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 99
+  controlID: 100
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -317,13 +317,13 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Scripts
+    - Assets/Prefabs
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Scripts
+  - Assets/Prefabs
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\taylo\Prototypes\Prototype7\Weather
   m_LockTracker:
@@ -332,7 +332,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 38.200012}
     m_SelectedIDs: c45f0000
     m_LastClickedID: 24516
-    m_ExpandedIDs: 000000006e5f0000705f000000ca9a3b
+    m_ExpandedIDs: 00000000705f0000725f000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -360,7 +360,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 000000006e5f0000705f0000
+    m_ExpandedIDs: 00000000705f0000725f0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -488,23 +488,23 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 22110000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 16fbffff845d0000
+      m_ExpandedIDs: 16fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: Cube
+        m_OriginalName: Cube
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: 0
+        m_UserData: -7910
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 4
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 4}
       m_SearchString: 
@@ -772,9 +772,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -1.1544535, y: -1.1868848, z: 4.9314213}
+    m_Target: {x: 2.5293903, y: 0.72828156, z: 3.0603433}
     speed: 2
-    m_Value: {x: -1.1544535, y: -1.1868848, z: 4.9314213}
+    m_Value: {x: 2.5293903, y: 0.72828156, z: 3.0603433}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -820,13 +820,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: 0.27737358, y: 0.018152015, z: -0.0052400115, w: 0.96058065}
+    m_Target: {x: 0.14138375, y: 0.026423361, z: -0.0037731775, w: 0.9896023}
     speed: 2
-    m_Value: {x: 0.27736428, y: 0.019592786, z: -0.005656043, w: 0.96054846}
+    m_Value: {x: 0.14137691, y: 0.027907532, z: -0.00398522, w: 0.98955435}
   m_Size:
-    m_Target: 10
+    m_Target: 11.388553
     speed: 2
-    m_Value: 10
+    m_Value: 11.925186
   m_Ortho:
     m_Target: 0
     speed: 2
