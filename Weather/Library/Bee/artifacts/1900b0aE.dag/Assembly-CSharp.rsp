@@ -364,6 +364,7 @@
 "Assets/Scripts/Game.cs"
 "Assets/Scripts/Lose.cs"
 "Assets/Scripts/Open.cs"
+"Assets/Scripts/TimedSpawn.cs"
 "Assets/Scripts/Win.cs"
 "Assets/StarterAssets/InputSystem/StarterAssetsInputs.cs"
 "Assets/StarterAssets/Mobile/Scripts/CanvasInputs/UICanvasControllerInput.cs"
